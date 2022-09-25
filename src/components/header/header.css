@@ -1,0 +1,18 @@
+.header-container {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: flex-start;
+}
+
+.header-container>a {
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.search-input {
+    flex: 1;
+}
